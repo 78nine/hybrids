@@ -11,9 +11,17 @@
 - [Translation](core-concepts/translation.md)
 
 ## Built-in Factories
+
 - [Property](built-in-factories/property.md)
 - [Parent & Children](built-in-factories/parent-children.md)
 - [Render](built-in-factories/render.md)
+
+## Store
+
+- [Introduction](introduction.md)
+- [Model Definition](model-definition.md)
+- [Usage](usage.md)
+- [Storage](storage.md)
 
 ## Template Engine
 
